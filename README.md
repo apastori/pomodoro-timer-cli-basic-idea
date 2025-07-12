@@ -6,7 +6,7 @@ A simple and customizable Pomodoro timer for your terminal.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/pomodoro-timer-cli.git
+    git clone https://github.com/apastori/pomodoro-timer-cli.git
     ```
 2.  Navigate to the project directory:
     ```bash
